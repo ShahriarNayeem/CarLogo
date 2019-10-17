@@ -23,7 +23,7 @@ The model classifies a given image by attributing a predicted brand name:
 
 <img src="test_image/0.jpg" alt="Mercedes" width="200"/>\
 **True Company:** Mercedes<br>
-**Predicted Company:** Suzuki
+**Predicted Company:** Mercedes
 
 
 ## Model Metrics
