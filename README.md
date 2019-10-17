@@ -28,7 +28,7 @@ The model classifies a given image by attributing a predicted brand name:
 
 ## Model Metrics
 
-The model had an accuracy of 93.3160%.
+The model had an accuracy of 92.5676%.
 
 ## Features
 
